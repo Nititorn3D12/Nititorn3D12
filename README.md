@@ -1,5 +1,6 @@
 Welcome to Nititorn_Donsay's Profile 🖥️
-Hello there! Welcome to my GitHub profile! 🚀 My name is Nititorn_Donsay.
+Hello there! Welcome to my GitHub profile! 🚀 
+My name is Nititorn_Donsay.
 
 I am a software developer with a passion for creating user-friendly and high-performance applications and websites 🌐
 
@@ -7,6 +8,7 @@ Expertise 🛠️
 JavaScript
 Python
 HTML/CSS
+
 UX/UI Skills 🎨
 Designing user experiences that are easy to access and use
 Creating solid and beautiful UI/UX foundations
